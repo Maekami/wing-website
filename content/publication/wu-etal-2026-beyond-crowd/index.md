@@ -20,5 +20,7 @@ links:
 - name: ACL Anthology
   url: https://aclanthology.org/2026.acl-long.233/
 url_pdf: https://aclanthology.org/2026.acl-long.233.pdf
+url_code: https://github.com/jiayingwu19/CrowdNotesPlus
 featured: true
+projects: ['health-community-notes']
 ---
