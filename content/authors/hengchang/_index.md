@@ -26,9 +26,6 @@ bio:  Doctoral Alumnus (Oct '24).
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 
-# Short bio (displayed in user profile at end of posts)
-bio: PhD Candidate August 2019 Intake
-
 interests:
   - Recommender Systems
   - Multi-Modality

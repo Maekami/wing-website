@@ -22,8 +22,6 @@ projects: ["discourse", "analytical-reporting", "selfadaptation"]
 featured: true
 
 summary: "WING at NUS AI Seminar at the Computer Science Department"
-
-date: '2025-11-19'
 ---
 
 NUS AI Seminar at the Computer Science Department is a new initiative to bring together AI researchers to share their latest research findings and insights. There are eight speakers in the Fall 2025 semester, usually hosted on Wednesday afternoons at Seminar Room 21. WING members are excited to present their research alongside other presenters from NUS Computing, MIT, and UCLA. We appreciate [Prof. Lee Wee Sun](https://www.comp.nus.edu.sg/~leews/) and PhD student [Guoji Fu](https://scholar.google.com/citations?hl=en&user=a8CLpC0AAAAJ&view_op=list_works&sortby=pubdate) for hosting the seminar.

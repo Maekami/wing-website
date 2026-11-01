@@ -27,7 +27,6 @@ image:
   caption: "Yisong Miao presenting the CAPRI dataset and the team’s paper at the seminar."
   focal_point: Center
 
-date: '2026-07-02'
 ---
 
 On the afternoon of 2 July 2026, NUS SoC held the 2026 edition of its Summer Research Internship (SRI) Research Gathering and Networking Event. SRI is our school’s program for attracting talent from around the globe to conduct research at our school over the summer. Our group is delighted to host [Mr. Thura Aung](https://wing.comp.nus.edu.sg/author/thura-aung/) (KMITL) and [Mr. Ha Minh Hieu](https://wing.comp.nus.edu.sg/author/ha-minh-hieu/) (HUST) this summer. Dr. Anand Bhojan delivered the opening remarks, and Prof. Chan Mun Choon gave a keynote about SoC’s PhD program.

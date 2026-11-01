@@ -24,8 +24,6 @@ sections:
           icon_pack: fas
           text: Join Us
           url: /contact/
-        content: |
-          📣 [Alert! We are looking for postdoctoral scholars in the areas of AI4Science, LLM Alignment and Fact-Checking!](/post/25-12-15-postdoc-ad/)
       - title: Retrieval Augmented Generation at STePS
         content: "RAG posters from CS6101 at 27th STePS!"
         align: center
