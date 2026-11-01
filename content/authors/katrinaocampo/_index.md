@@ -7,7 +7,7 @@ first_name: Katrina
 last_name: Ocampo
 
 # Date for sorting
-date: '2011-00-01'
+date: '2011-01-01'
 
 # Is this the primary user of the site?
 superuser: false

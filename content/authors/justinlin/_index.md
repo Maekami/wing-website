@@ -7,7 +7,7 @@ first_name: Justin Sein
 last_name: Lin
 
 # Date for sorting
-date: '2009-00-01'
+date: '2009-01-01'
 
 # Is this the primary user of the site?
 superuser: false

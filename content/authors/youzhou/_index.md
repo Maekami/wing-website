@@ -7,7 +7,7 @@ first_name: You
 last_name: Zhou
 
 # Date for sorting
-date: '2016-00-01'
+date: '2016-01-01'
 
 # Is this the primary user of the site?
 superuser: false

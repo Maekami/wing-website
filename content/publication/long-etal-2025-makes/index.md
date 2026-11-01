@@ -14,7 +14,7 @@ doi: ""
 
 # Schedule page publish date (NOT publication's date).
 date: '2025-08-01'
-publishDate: '2025-08'
+publishDate: '2025-08-01'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
