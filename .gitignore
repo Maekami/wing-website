@@ -1,6 +1,30 @@
 # IDEs
 .idea/
 
+# Local generated website
+/build/
+
+# Backups and editor scratch files
+*.bak
+*.bak.*
+*~
+*.swp
+*.swo
+*.tmp
+*.temp
+*.orig
+*.rej
+/git-rebase-todoTAB
+
+# Python and local caches
+__pycache__/
+*.py[cod]
+.cache/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+
 # Hugo
 resources/
 public/
