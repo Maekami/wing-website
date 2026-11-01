@@ -7,7 +7,7 @@ first_name: Joeran
 last_name: Beel
 
 # Date for sorting
-date: '2024-11'
+date: '2024-11-01'
 
 # Is this the primary user of the site?
 superuser: false
@@ -33,7 +33,7 @@ education:
   courses:
     - course: PhD (Dr.-Ing) in Computer Science
       institution: University of Magdeburg, Germany
-      date: '2015'
+      date: '2015-01-01'
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons

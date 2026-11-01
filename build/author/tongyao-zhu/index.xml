@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tongyao Zhu | Web IR NLP Group @ NUS</title><link>https://wing.comp.nus.edu.sg/author/tongyao-zhu/</link><atom:link href="https://wing.comp.nus.edu.sg/author/tongyao-zhu/index.xml" rel="self" type="application/rss+xml"/><description>Tongyao Zhu</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jul 2026 00:00:00 +0000</lastBuildDate><image><url>https://wing.comp.nus.edu.sg/author/tongyao-zhu/avatar_hu_1ccdbd27d5c8c52.jpg</url><title>Tongyao Zhu</title><link>https://wing.comp.nus.edu.sg/author/tongyao-zhu/</link></image><item><title>When Does Mixing Help? Analyzing Query Embedding Interpolation in Multilingual Dense Retrieval</title><link>https://wing.comp.nus.edu.sg/publication/zhu-etal-2026-mixing/</link><pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate><guid>https://wing.comp.nus.edu.sg/publication/zhu-etal-2026-mixing/</guid><description/></item><item><title>WING 2026 Spring Outing at Clarke Quay</title><link>https://wing.comp.nus.edu.sg/event/26-01-23-wing-outing-clarkequay/</link><pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate><guid>https://wing.comp.nus.edu.sg/event/26-01-23-wing-outing-clarkequay/</guid><description>&lt;p&gt;WING members were excited to have a spring outing at Clarke Quay on January 23, 2026. For this outing, we scheduled it at the beginning of the semester to help new members better cohere with the group.&lt;/p&gt;
+&lt;p&gt;We enjoyed both the beautiful river view and the pizza! We were happy to see the return of our alumni, especially &lt;a href="https://wing.comp.nus.edu.sg/author/hengchang-hu/" target="_blank" rel="noopener"&gt;Hengchang&lt;/a&gt;, &lt;a href="https://wing.comp.nus.edu.sg/author/chuang-li/" target="_blank" rel="noopener"&gt;Victor&lt;/a&gt;, and &lt;a href="https://wing.comp.nus.edu.sg/author/ibrahim-taha-aksu/" target="_blank" rel="noopener"&gt;Taha&lt;/a&gt;, as well as our collaborator, Yunshan. We especially thank Hengchang (a WING PhD alumnus) for his generous donation of the pizza (and other items on the bill as well)!&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Below is a gallery of the outing, photo credit to Yajing, Glenda, and Yisong!&lt;/em&gt;&lt;/p&gt;
+&lt;figure &gt;
+&lt;div class="d-flex justify-content-center"&gt;
+&lt;div class="w-100" &gt;&lt;img alt="WING 2026 spring outing group at Clarke Quay" srcset="
+/event/26-01-23-wing-outing-clarkequay/featured_hu_52ecea76f2718c05.webp 400w,
+/event/26-01-23-wing-outing-clarkequay/featured_hu_db3c6fe45c4e7513.webp 760w,
+/event/26-01-23-wing-outing-clarkequay/featured_hu_9ec7459c7bf33821.webp 1200w"
+src="https://wing.comp.nus.edu.sg/event/26-01-23-wing-outing-clarkequay/featured_hu_52ecea76f2718c05.webp"
+width="760"
+height="570"
+loading="lazy" data-zoomable /&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;/figure&gt;
+&lt;figure &gt;
+&lt;div class="d-flex justify-content-center"&gt;
+&lt;div class="w-100" &gt;&lt;img alt="WING members enjoying the Clarke Quay river view" srcset="
+/event/26-01-23-wing-outing-clarkequay/wing-outing-1_hu_5d06671b8367fb04.webp 400w,
+/event/26-01-23-wing-outing-clarkequay/wing-outing-1_hu_c0efb97fb0ad967.webp 760w,
+/event/26-01-23-wing-outing-clarkequay/wing-outing-1_hu_ab5ca29295ca3e84.webp 1200w"
+src="https://wing.comp.nus.edu.sg/event/26-01-23-wing-outing-clarkequay/wing-outing-1_hu_5d06671b8367fb04.webp"
+width="760"
+height="570"
+loading="lazy" data-zoomable /&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;/figure&gt;
+&lt;figure &gt;
+&lt;div class="d-flex justify-content-center"&gt;
+&lt;div class="w-100" &gt;&lt;img alt="WING members sharing pizza during the outing" srcset="
+/event/26-01-23-wing-outing-clarkequay/wing-outing-2_hu_cd53802ae348223d.webp 400w,
+/event/26-01-23-wing-outing-clarkequay/wing-outing-2_hu_b843dbed386287a.webp 760w,
+/event/26-01-23-wing-outing-clarkequay/wing-outing-2_hu_3207c63c5913bc5b.webp 1200w"
+src="https://wing.comp.nus.edu.sg/event/26-01-23-wing-outing-clarkequay/wing-outing-2_hu_cd53802ae348223d.webp"
+width="570"
+height="760"
+loading="lazy" data-zoomable /&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;/figure&gt;</description></item><item><title>WING Hosts a Lab Tour for AAAI 2026 Participants</title><link>https://wing.comp.nus.edu.sg/event/26-01-23-wing-lab-tour/</link><pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate><guid>https://wing.comp.nus.edu.sg/event/26-01-23-wing-lab-tour/</guid><description>&lt;p&gt;AAAI 2026 has been held in Singapore from January 20 to January 27. Some of our group members are excited to travel to the conference site (at Expo) to communicate research. In conjunction with our regular group meeting on Friday, January 23, we are delighted to invite AAAI participants to visit our WING lab and experience the NUS Computing environment.&lt;/p&gt;
+&lt;p&gt;With our visitors, this group meeting had a special agenda:&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://yocodeyo.github.io" target="_blank" rel="noopener"&gt;Minzhi Li&lt;/a&gt; from WING NUS gave a presentation to debrief her 2025 internship experience.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.gesis.org/en/institute/about-us/staff/person/Lu.Gan" target="_blank" rel="noopener"&gt;Dr. Lu Gan&lt;/a&gt; (from &lt;a href="https://www.gesis.org/en/home" target="_blank" rel="noopener"&gt;GESIS - Leibniz Institute for the Social Sciences&lt;/a&gt;) gave a presentation about an AAAI paper from their team, titled &amp;ldquo;GSAP-ERE: Fine-Grained Scholarly Entity and Relation Extraction Focused on Machine Learning&amp;rdquo; (available &lt;a href="https://arxiv.org/abs/2511.09411" target="_blank" rel="noopener"&gt;here&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;Finally, we had a round of self-introductions for all WING members as well as the visitors to socialize and discuss research.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Below is a gallery of the lab tour, photo credit to Sahaj, Yisong, and Min!&lt;/em&gt;&lt;/p&gt;
+&lt;figure &gt;
+&lt;div class="d-flex justify-content-center"&gt;
+&lt;div class="w-100" &gt;&lt;img alt="WING lab tour group discussion" srcset="
+/event/26-01-23-wing-lab-tour/lab-tour-1_hu_544fc49c9d06640f.webp 400w,
+/event/26-01-23-wing-lab-tour/lab-tour-1_hu_94a3229dc9dfa9e0.webp 760w,
+/event/26-01-23-wing-lab-tour/lab-tour-1_hu_e829c189236a7e9b.webp 1200w"
+src="https://wing.comp.nus.edu.sg/event/26-01-23-wing-lab-tour/lab-tour-1_hu_544fc49c9d06640f.webp"
+width="760"
+height="570"
+loading="lazy" data-zoomable /&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;/figure&gt;
+&lt;figure &gt;
+&lt;div class="d-flex justify-content-center"&gt;
+&lt;div class="w-100" &gt;&lt;img alt="AAAI visitors listening to a presentation at WING" srcset="
+/event/26-01-23-wing-lab-tour/lab-tour-2_hu_283d4e5ca761891c.webp 400w,
+/event/26-01-23-wing-lab-tour/lab-tour-2_hu_ac6643f621c171c.webp 760w,
+/event/26-01-23-wing-lab-tour/lab-tour-2_hu_62b51aa8fe4455a3.webp 1200w"
+src="https://wing.comp.nus.edu.sg/event/26-01-23-wing-lab-tour/lab-tour-2_hu_283d4e5ca761891c.webp"
+width="760"
+height="570"
+loading="lazy" data-zoomable /&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;/figure&gt;
+&lt;figure &gt;
+&lt;div class="d-flex justify-content-center"&gt;
+&lt;div class="w-100" &gt;&lt;img alt="Participants exploring the WING lab space" srcset="
+/event/26-01-23-wing-lab-tour/lab-tour-3_hu_1700d971ce2dc809.webp 400w,
+/event/26-01-23-wing-lab-tour/lab-tour-3_hu_54c4001922946a96.webp 760w,
+/event/26-01-23-wing-lab-tour/lab-tour-3_hu_ce55ffdcebf9810a.webp 1200w"
+src="https://wing.comp.nus.edu.sg/event/26-01-23-wing-lab-tour/lab-tour-3_hu_1700d971ce2dc809.webp"
+width="760"
+height="570"
+loading="lazy" data-zoomable /&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;/figure&gt;
+&lt;figure &gt;
+&lt;div class="d-flex justify-content-center"&gt;
+&lt;div class="w-100" &gt;&lt;img alt="Group photo from the WING lab tour" srcset="
+/event/26-01-23-wing-lab-tour/lab-tour-4_hu_f692b88ee5f2025f.webp 400w,
+/event/26-01-23-wing-lab-tour/lab-tour-4_hu_a1d9a414e6252ebc.webp 760w,
+/event/26-01-23-wing-lab-tour/lab-tour-4_hu_5b504866a5c5648f.webp 1200w"
+src="https://wing.comp.nus.edu.sg/event/26-01-23-wing-lab-tour/lab-tour-4_hu_f692b88ee5f2025f.webp"
+width="760"
+height="570"
+loading="lazy" data-zoomable /&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;/figure&gt;
+&lt;figure &gt;
+&lt;div class="d-flex justify-content-center"&gt;
+&lt;div class="w-100" &gt;&lt;img alt="AAAI 2026 participants visiting WING lab" srcset="
+/event/26-01-23-wing-lab-tour/featured_hu_bbad353f43934636.webp 400w,
+/event/26-01-23-wing-lab-tour/featured_hu_855d56bac0a13563.webp 760w,
+/event/26-01-23-wing-lab-tour/featured_hu_1735aa42666ca383.webp 1200w"
+src="https://wing.comp.nus.edu.sg/event/26-01-23-wing-lab-tour/featured_hu_bbad353f43934636.webp"
+width="760"
+height="428"
+loading="lazy" data-zoomable /&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;/figure&gt;</description></item><item><title>SSNLP 2026: WING Members Present Three Posters</title><link>https://wing.comp.nus.edu.sg/event/26-01-21-ssnlp/</link><pubDate>Wed, 21 Jan 2026 00:00:00 +0000</pubDate><guid>https://wing.comp.nus.edu.sg/event/26-01-21-ssnlp/</guid><description>&lt;p&gt;The Singapore Symposium on Natural Language Processing (SSNLP) returns on Wednesday, January 21, 2026, at SUTD as a full-day, in-person event. Since 2018, SSNLP has been the annual gathering of Singapore’s NLP community, bringing together students, faculty, and industry researchers to share ongoing work and spark collaboration. Held in conjunction with AAAI 2026, this year’s symposium will feature invited keynotes from leading researchers in the field, a panel discussion, and an immersive poster-focused program showcasing recent work from Singapore-based researchers published in top venues such as ACL, EMNLP, NeurIPS, ICLR, and AAAI this year (this short intro is propagated from &lt;a href="https://ssnlp-website.github.io/ssnlp26/" target="_blank" rel="noopener"&gt;SSNLP 2026 website&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;WING members are delighted to attend the seminar, enjoying keynote talks from guest researchers who travel all the way from AoE to Singapore. We also appreciate the panel discussions led by PC Chairs (from *ACL, ICLR, and NeurIPS conference), who share valuable insights on the peer review process, particularly from the students&amp;rsquo; perspective.&lt;/p&gt;
+&lt;p&gt;We also engage in the immersive poster program, and our group is excited to present three posters:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Discursive Circuits: How Do Language Models Understand Discourse Relations?&lt;/em&gt; by Yisong Miao and Min-Yen Kan (EMNLP 2025)&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;SkyLadder: Better and Faster Pretraining via Context Window Scheduling&lt;/em&gt; by Tongyao Zhu, Qian Liu, Haonan Wang, Shiqi Chen, Xiangming Gu, Tianyu Pang, and Min-Yen Kan (NeurIPS 2025)&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Drifting Away from Truth: GenAI-Driven News Diversity Challenges LVLM-Based Misinformation Detection&lt;/em&gt; by Fanxiao Li, Jiaying Wu, Tingchao Fu, Yunyun Dong, Bingbing Song and Wei Zhou (AAAI 2026).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;We thank the symposium organizers for the opportunity to present our work, as well as the enthusiastic audience who engaged with us during the poster sessions!&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Below is a gallery of the poster presentations, we thank Prof Min for taking these photos!&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Yisong presenting his work on &amp;ldquo;Discursive Circuits: How Do Language Models Understand Discourse Relations?&amp;rdquo;:
+&lt;figure &gt;
+&lt;div class="d-flex justify-content-center"&gt;
+&lt;div class="w-100" &gt;&lt;img alt="Yisong presenting at SSNLP 2026" srcset="
+/event/26-01-21-ssnlp/yisong-ssnlp_hu_e0c506c631eb8808.webp 400w,
+/event/26-01-21-ssnlp/yisong-ssnlp_hu_6f5edcfc5a63192f.webp 760w,
+/event/26-01-21-ssnlp/yisong-ssnlp_hu_f41fee5e5782d956.webp 1200w"
+src="https://wing.comp.nus.edu.sg/event/26-01-21-ssnlp/yisong-ssnlp_hu_e0c506c631eb8808.webp"
+width="570"
+height="760"
+loading="lazy" data-zoomable /&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Tongyao presenting his work on &amp;ldquo;SkyLadder: Better and Faster Pretraining via Context Window Scheduling&amp;rdquo;:
+&lt;figure &gt;
+&lt;div class="d-flex justify-content-center"&gt;
+&lt;div class="w-100" &gt;&lt;img alt="Tongyao presenting at SSNLP 2026" srcset="
+/event/26-01-21-ssnlp/tongyao-ssnlp_hu_ab0228e6612f6bec.webp 400w,
+/event/26-01-21-ssnlp/tongyao-ssnlp_hu_d759b664e0573e09.webp 760w,
+/event/26-01-21-ssnlp/tongyao-ssnlp_hu_26ad2b37cea442d0.webp 1200w"
+src="https://wing.comp.nus.edu.sg/event/26-01-21-ssnlp/tongyao-ssnlp_hu_ab0228e6612f6bec.webp"
+width="760"
+height="570"
+loading="lazy" data-zoomable /&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Fanxiao presenting his work on &amp;ldquo;Drifting Away from Truth: GenAI-Driven News Diversity Challenges LVLM-Based Misinformation Detection&amp;rdquo;:
+&lt;figure &gt;
+&lt;div class="d-flex justify-content-center"&gt;
+&lt;div class="w-100" &gt;&lt;img alt="Fanxiao presenting at SSNLP 2026" srcset="
+/event/26-01-21-ssnlp/fanxiao-ssnlp_hu_8556fe3b81e6119f.webp 400w,
+/event/26-01-21-ssnlp/fanxiao-ssnlp_hu_7f3baf9b6ab3ac79.webp 760w,
+/event/26-01-21-ssnlp/fanxiao-ssnlp_hu_cca113f98f7288cd.webp 1200w"
+src="https://wing.comp.nus.edu.sg/event/26-01-21-ssnlp/fanxiao-ssnlp_hu_8556fe3b81e6119f.webp"
+width="570"
+height="760"
+loading="lazy" data-zoomable /&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;</description></item><item><title>SkyLadder: Better and Faster Pretraining via Context Window Scheduling</title><link>https://wing.comp.nus.edu.sg/publication/skyladder-2025/</link><pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate><guid>https://wing.comp.nus.edu.sg/publication/skyladder-2025/</guid><description/></item><item><title>WING's CS6101 Retrieval Augmented Generation comes to a successful close at 27th STePS</title><link>https://wing.comp.nus.edu.sg/post/25-11-12-cs6101-27-steps/</link><pubDate>Wed, 12 Nov 2025 00:00:00 +0000</pubDate><guid>https://wing.comp.nus.edu.sg/post/25-11-12-cs6101-27-steps/</guid><description>&lt;p&gt;WING ran an experimental section of our CS6101 Exploration of Computer Science Research, as a trial course on Retrieval Augmented Generation.&lt;/p&gt;
+&lt;p&gt;RAG is now a common gateway experience for the general public as well as students to experience Information Retrieval, a core research area of WING.&lt;/p&gt;
+&lt;p&gt;The &lt;a href="https://wing-nus.github.io/cs6101/" target="_blank" rel="noopener"&gt;CS6101 course website&lt;/a&gt; has publicly-available lecture slides, video lecture recordings and scribe notes for the class&amp;rsquo;s topics.&lt;/p&gt;
+&lt;p&gt;These include sections on LLM generation, Retreival, Ranking, RAG Models, Iterative Retrieval and Advanced RAG topics (inclusive of graph, multimodal RAG) and source credibility estimation.&lt;/p&gt;
+&lt;p&gt;Check out the LinkedIn posts by class participants &lt;a href="https://www.linkedin.com/posts/vangmay-sachan-3582b5213_proud-to-share-that-our-cs6101-research-activity-7397206677122494464-UG2P?utm_source=share&amp;amp;utm_medium=member_desktop&amp;amp;rcm=ACoAAAAYoCgBi434DEmIHl6WM_eKa9mYrTHBY68" target="_blank" rel="noopener"&gt;Vangmay Sachin&lt;/a&gt;, &lt;a href="https://www.linkedin.com/posts/jonathan-chen-33096811_slm-rag-vs-larger-lm-rag-a-surprising-activity-7396539548731809792-W1_S?utm_source=share&amp;amp;utm_medium=member_desktop&amp;amp;rcm=ACoAAAAYoCgBi434DEmIHl6WM_eKa9mYrTHBY68" target="_blank" rel="noopener"&gt;Jonathan Chen&lt;/a&gt; and &lt;a href="https://www.linkedin.com/posts/sahej-agarwal_sahej-agarwal-credentials-wallet-accredible-activity-7404472938357383168-5NxS?utm_source=share&amp;amp;utm_medium=member_desktop&amp;amp;rcm=ACoAAAAYoCgBi434DEmIHl6WM_eKa9mYrTHBY68" target="_blank" rel="noopener"&gt;Sahej Agrawal&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;You can also visit the &lt;a href="https://wing.comp.nus.edu.sg/event/"&gt;other WING Events&lt;/a&gt;, including past public iterations of WING&amp;rsquo;s CS6101 sections.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Image enhanced and regenerated via Google&amp;rsquo;s Nano Banana&lt;/em&gt;&lt;/p&gt;</description></item><item><title>Beyond Memorization: The Challenge of Random Memory Access in Language Models</title><link>https://wing.comp.nus.edu.sg/publication/acl24a/</link><pubDate>Sun, 11 Aug 2024 00:00:00 +0000</pubDate><guid>https://wing.comp.nus.edu.sg/publication/acl24a/</guid><description/></item><item><title>Benchmarking and Improving OCR Systems for Southeast Asian Languages</title><link>https://wing.comp.nus.edu.sg/project/benchmarking-and-improving-ocr-on-sea-languages/</link><pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate><guid>https://wing.comp.nus.edu.sg/project/benchmarking-and-improving-ocr-on-sea-languages/</guid><description>&lt;p&gt;While Optical Character Recognition (OCR) has been widely studied for high-resource languages such as English and Chinese, its performance on Southeast Asian (SEA) languages remains largely unexplored. This study addresses this gap by evaluating three OCR tools — EasyOCR, Tesseract, and the transformer-based General OCR Theory (GOT) — on English, Indonesian, Vietnamese, and Thai. We introduce a reusable pipeline for collecting textual data from Wikipedia and benchmarking OCR tools. Contrary to popular belief, our results show that OCR tools perform well on complex scripts like Vietnamese and Thai, with most errors arising from misclassifying characters outside the target language. Additionally, we demonstrate the effectiveness of fine-tuning GOT with limited training data, yielding notable improvements on Vietnamese and Thai.&lt;/p&gt;</description></item><item><title>WING Members Enjoy the Group Outing at Yajing's Condo for a BBQ</title><link>https://wing.comp.nus.edu.sg/event/24-07-26-wing-outing-bbq/</link><pubDate>Fri, 26 Jul 2024 00:00:00 +0000</pubDate><guid>https://wing.comp.nus.edu.sg/event/24-07-26-wing-outing-bbq/</guid><description>&lt;p&gt;A gallery of additional photos of the outing is included below.&lt;/p&gt;
+&lt;p&gt;
+&lt;figure &gt;
+&lt;div class="d-flex justify-content-center"&gt;
+&lt;div class="w-100" &gt;&lt;img alt="WING outing photo" srcset="
+/event/24-07-26-wing-outing-bbq/yajings_hu_d95c22ed71629b56.webp 400w,
+/event/24-07-26-wing-outing-bbq/yajings_hu_bdacdcc20e7ab892.webp 760w,
+/event/24-07-26-wing-outing-bbq/yajings_hu_4fa23a2284551876.webp 1200w"
+src="https://wing.comp.nus.edu.sg/event/24-07-26-wing-outing-bbq/yajings_hu_d95c22ed71629b56.webp"
+width="760"
+height="570"
+loading="lazy" data-zoomable /&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;</description></item></channel></rss>

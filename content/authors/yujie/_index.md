@@ -7,7 +7,7 @@ first_name: Yujie
 last_name: Zhang
 
 # Date for sorting
-date: '2026-10'
+date: '2026-10-01'
 
 superuser: false
 role: Visiting Student (Oct '26)

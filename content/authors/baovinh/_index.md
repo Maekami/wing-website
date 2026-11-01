@@ -7,7 +7,7 @@ first_name: Vu
 last_name: Vinh
 
 # Date for sorting (month you started)
-date: '2026-08'
+date: '2026-08-01'
 
 superuser: false
 

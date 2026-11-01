@@ -7,7 +7,7 @@ first_name: Abhinav
 last_name: Kashyap
 
 # Date for sorting
-date: '2023-03'
+date: '2023-03-01'
 
 # Is this the primary user of the site?
 superuser: false

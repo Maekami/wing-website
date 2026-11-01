@@ -7,7 +7,7 @@ first_name: Divyajyoti
 last_name: Panda
 
 # Date for sorting
-date: '2024-05'
+date: '2024-05-01'
 
 # Is this the primary user of the site?
 superuser: false

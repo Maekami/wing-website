@@ -37,7 +37,7 @@ education:
   courses:
     - course: PhD in Computer Science
       institution: University of British Columbia (UBC)
-      date: '2014'
+      date: '2014-01-01'
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons

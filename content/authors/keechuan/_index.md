@@ -7,7 +7,7 @@ first_name: Yuan Chuan
 last_name: Kee
 
 # Date for sorting
-date: '2021-05'
+date: '2021-05-01'
 
 # Is this the primary user of the site?
 superuser: false

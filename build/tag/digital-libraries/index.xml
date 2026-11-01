@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Digital Libraries | Web IR NLP Group @ NUS</title><link>https://wing.comp.nus.edu.sg/tag/digital-libraries/</link><atom:link href="https://wing.comp.nus.edu.sg/tag/digital-libraries/index.xml" rel="self" type="application/rss+xml"/><description>Digital Libraries</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 28 Jan 2026 00:00:00 +0000</lastBuildDate><image><url>https://wing.comp.nus.edu.sg/media/icon_hu_ce731d16d7c8719.png</url><title>Digital Libraries</title><link>https://wing.comp.nus.edu.sg/tag/digital-libraries/</link></image><item><title>Michalis Vlachos Presents at the CSSH Seminar: Searching Digital Libraries with Language Models</title><link>https://wing.comp.nus.edu.sg/event/26-01-28-michalis-cssh/</link><pubDate>Wed, 28 Jan 2026 00:00:00 +0000</pubDate><guid>https://wing.comp.nus.edu.sg/event/26-01-28-michalis-cssh/</guid><description>&lt;p&gt;Our group is delighted to have Michalis Vlachos visiting our group as a Sabbatical Visiting Professor. On January 28th, 2026, Michalis presented his work on &amp;ldquo;Searching Digital Libraries with Language Models&amp;rdquo; at a seminar hosted by the Centre for Computational Social Science and Humanities (CSSH) at NUS.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Digital libraries now hold tens of millions of pages, yet most are still accessed through keyword based search over potentially noisy OCR text. As collections expand, traditional search interfaces struggle to support meaningful discovery, context, and evidence-based answers.&lt;/p&gt;
+&lt;p&gt;This talk explores how modern language models can enhance the entire digital library pipeline. We examine how LLMs can refine OCR output, clean historical text, and enable natural-language search through retrieval augmented generation. Using real-world archival data, we show improvements in character and word error rates, as well as downstream gains in retrieval quality, evaluated through both standard metrics and LLM based judging for faithfulness, correctness, and relevancy.&lt;/p&gt;
+&lt;p&gt;We also look beyond ranking results, discussing evidence driven answers and immersive, augmented-reality interfaces that open new ways to explore large historical collections. We conclude by reflecting on how these advances can improve transparency, reduce misinformation, and reshape the future of search in digital libraries.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Below is a gallery of the seminar, photo credit to Min and Yisong!&lt;/em&gt;&lt;/p&gt;
+&lt;figure &gt;
+&lt;div class="d-flex justify-content-center"&gt;
+&lt;div class="w-100" &gt;&lt;img alt="Michalis Vlachos at CSSH Seminar" srcset="
+/event/26-01-28-michalis-cssh/featured_hu_4a5dd3f3ed3975a7.webp 400w,
+/event/26-01-28-michalis-cssh/featured_hu_8611dddd97079bd5.webp 760w,
+/event/26-01-28-michalis-cssh/featured_hu_44b6149327c1ef98.webp 1200w"
+src="https://wing.comp.nus.edu.sg/event/26-01-28-michalis-cssh/featured_hu_4a5dd3f3ed3975a7.webp"
+width="760"
+height="571"
+loading="lazy" data-zoomable /&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;/figure&gt;
+&lt;figure &gt;
+&lt;div class="d-flex justify-content-center"&gt;
+&lt;div class="w-100" &gt;&lt;img alt="Michalis Vlachos presenting at CSSH Seminar" srcset="
+/event/26-01-28-michalis-cssh/michalis-talk-1_hu_e0ffda163fe6c3e3.webp 400w,
+/event/26-01-28-michalis-cssh/michalis-talk-1_hu_374cfe5ec4e17b68.webp 760w,
+/event/26-01-28-michalis-cssh/michalis-talk-1_hu_cdc98bf7a2fb5b5d.webp 1200w"
+src="https://wing.comp.nus.edu.sg/event/26-01-28-michalis-cssh/michalis-talk-1_hu_e0ffda163fe6c3e3.webp"
+width="760"
+height="570"
+loading="lazy" data-zoomable /&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;/figure&gt;
+&lt;figure &gt;
+&lt;div class="d-flex justify-content-center"&gt;
+&lt;div class="w-100" &gt;&lt;img alt="Michalis Vlachos presenting at CSSH Seminar" srcset="
+/event/26-01-28-michalis-cssh/michalis-talk-2_hu_5abfb6f8c692d9ae.webp 400w,
+/event/26-01-28-michalis-cssh/michalis-talk-2_hu_b251fbf357155ab4.webp 760w,
+/event/26-01-28-michalis-cssh/michalis-talk-2_hu_a9c310ba82e04179.webp 1200w"
+src="https://wing.comp.nus.edu.sg/event/26-01-28-michalis-cssh/michalis-talk-2_hu_5abfb6f8c692d9ae.webp"
+width="760"
+height="570"
+loading="lazy" data-zoomable /&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;/figure&gt;
+&lt;figure &gt;
+&lt;div class="d-flex justify-content-center"&gt;
+&lt;div class="w-100" &gt;&lt;img alt="Michalis Vlachos presenting at CSSH Seminar" srcset="
+/event/26-01-28-michalis-cssh/michalis-talk-3_hu_9dd9e6f7de61a95d.webp 400w,
+/event/26-01-28-michalis-cssh/michalis-talk-3_hu_ada64ec8f4828635.webp 760w,
+/event/26-01-28-michalis-cssh/michalis-talk-3_hu_b92415e27d2db19c.webp 1200w"
+src="https://wing.comp.nus.edu.sg/event/26-01-28-michalis-cssh/michalis-talk-3_hu_9dd9e6f7de61a95d.webp"
+width="760"
+height="570"
+loading="lazy" data-zoomable /&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;/figure&gt;</description></item><item><title>Re-engineering the OPAC User Interface</title><link>https://wing.comp.nus.edu.sg/project/advanced-opacs/</link><pubDate>Fri, 04 Jun 2004 00:00:00 +0000</pubDate><guid>https://wing.comp.nus.edu.sg/project/advanced-opacs/</guid><description>&lt;p&gt;When library patrons utilize an online public access catalog (OPAC), they tend to type very few query words. Although it has been observed that patrons often have specific information needs, current search engine usability encourages users to underspecify their queries. With an OPAC&amp;rsquo;s fast response times and the difficulty of using more advanced query operators, users are pushed towards a probe-and-browse mode of information seeking. Additionally, patrons have adapted (or forced to adapt) to OPACs and give keywords as their queries, rather than more precise queries. As a consequence, the search results often only approximate the patron&amp;rsquo;s information need, missing crucial resources that may have been phrased differently or offering search results that may be phrased exactly as wanted but which only address the patron&amp;rsquo;s information need tangentially.&lt;/p&gt;
+&lt;p&gt;One solution is to teach the library patron to use advanced query syntax and to formulate more precise queries. However, this solution is both labor-intensive for library staff and time-intensive for patrons. Furthermore, different OPACs support different levels of advanced capabilities and often represent these operators with different syntax. An alternative solution that we propose is the use of advanced query analysis and query expansion. Rather than change the behavior of the patron, a system can analyze their keyword queries to infer more precise queries that uses advanced operators when appropriate. To make these inferences, the system will not only rely on logic but also will dynamically access both a) historical query logs and b) the library catalog to assess the feasibility of its suggestions.
+The proposed research will target three different types of query rewriting/expansion: 1) correction of misspellings, 2) inferring the relationships between a query&amp;rsquo;s noun and noun phrases, and 3) inferring intended advanced query syntax. The realization of these techniques will allow patrons to continue using OPACs by issuing simple keyword searchers while benefiting from more precise querying and alternative search suggestions that would originate from the implemented system.&lt;/p&gt;
+&lt;p&gt;In our current work we have examined how to re-engineer and design the User Interface to better supoort the actual information seeking methods used by library patrons. Jesse has re-engineered the work and has incorporated our own NUS OPAC as well as Colorado State University&amp;rsquo;s OPAC results into his tabbed, overview+details framework. If you have a library catalog with MARC21 results that can be exported we can wrap our UI around your database. Contact us for more information.&lt;/p&gt;
+&lt;p&gt;In collaboration with Prof. Danny C. C. Poo.&lt;/p&gt;</description></item></channel></rss>

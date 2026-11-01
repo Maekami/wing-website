@@ -7,7 +7,7 @@ first_name: Edwin
 last_name: Palathinkal
 
 # Date for sorting
-date: '2007-00'
+date: '2007-00-01'
 
 # Is this the primary user of the site?
 superuser: false

@@ -37,7 +37,7 @@ education:
   courses:
     - course: Doctor of Philosophy in Engineering
       institution: Tokushima University
-      date: '2013'
+      date: '2013-01-01'
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons

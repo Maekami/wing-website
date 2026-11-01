@@ -7,7 +7,7 @@ first_name: Yong Kang
 last_name: Kou
 
 # Date for sorting
-date: '2022-08'
+date: '2022-08-01'
 
 # Is this the primary user of the site?
 superuser: false

@@ -33,10 +33,10 @@ education:
   courses:
     - course: PhD (joint program, Beihang University & Microsoft Research Asia)
       institution: Beihang University & Microsoft Research Asia
-      date: '2022'
+      date: '2022-01-01'
     - course: B.S.
       institution: Beihang University
-      date: '2017'
+      date: '2017-01-01'
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons

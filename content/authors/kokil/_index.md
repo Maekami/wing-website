@@ -34,10 +34,10 @@ education:
   courses:
     - course: Ph.D. in Information Studies
       institution: Nanyang Technological University, Singapore
-      date: '2014'
+      date: '2014-01-01'
     - course: B.Eng. in Information Technology
       institution: Punjab Engineering College, India
-      date: '2008'
+      date: '2008-01-01'
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons

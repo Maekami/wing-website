@@ -7,7 +7,7 @@ first_name: Liangming
 last_name: Pan
 
 # Date for sorting
-date: '2022-04'
+date: '2022-04-01'
 
 # Is this the primary user of the site?
 superuser: false

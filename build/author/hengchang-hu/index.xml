@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hengchang Hu | Web IR NLP Group @ NUS</title><link>https://wing.comp.nus.edu.sg/author/hengchang-hu/</link><atom:link href="https://wing.comp.nus.edu.sg/author/hengchang-hu/index.xml" rel="self" type="application/rss+xml"/><description>Hengchang Hu</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 30 Mar 2026 00:00:00 +0000</lastBuildDate><image><url>https://wing.comp.nus.edu.sg/media/icon_hu_ce731d16d7c8719.png</url><title>Hengchang Hu</title><link>https://wing.comp.nus.edu.sg/author/hengchang-hu/</link></image><item><title>Improving Conversational Recommendation with Contextual Adaptation of External Recommenders and LLM-Based Reranking</title><link>https://wing.comp.nus.edu.sg/publication/care-2026/</link><pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate><guid>https://wing.comp.nus.edu.sg/publication/care-2026/</guid><description/></item><item><title>WING 2026 Spring Outing at Clarke Quay</title><link>https://wing.comp.nus.edu.sg/event/26-01-23-wing-outing-clarkequay/</link><pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate><guid>https://wing.comp.nus.edu.sg/event/26-01-23-wing-outing-clarkequay/</guid><description>&lt;p&gt;WING members were excited to have a spring outing at Clarke Quay on January 23, 2026. For this outing, we scheduled it at the beginning of the semester to help new members better cohere with the group.&lt;/p&gt;
+&lt;p&gt;We enjoyed both the beautiful river view and the pizza! We were happy to see the return of our alumni, especially &lt;a href="https://wing.comp.nus.edu.sg/author/hengchang-hu/" target="_blank" rel="noopener"&gt;Hengchang&lt;/a&gt;, &lt;a href="https://wing.comp.nus.edu.sg/author/chuang-li/" target="_blank" rel="noopener"&gt;Victor&lt;/a&gt;, and &lt;a href="https://wing.comp.nus.edu.sg/author/ibrahim-taha-aksu/" target="_blank" rel="noopener"&gt;Taha&lt;/a&gt;, as well as our collaborator, Yunshan. We especially thank Hengchang (a WING PhD alumnus) for his generous donation of the pizza (and other items on the bill as well)!&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Below is a gallery of the outing, photo credit to Yajing, Glenda, and Yisong!&lt;/em&gt;&lt;/p&gt;
+&lt;figure &gt;
+&lt;div class="d-flex justify-content-center"&gt;
+&lt;div class="w-100" &gt;&lt;img alt="WING 2026 spring outing group at Clarke Quay" srcset="
+/event/26-01-23-wing-outing-clarkequay/featured_hu_52ecea76f2718c05.webp 400w,
+/event/26-01-23-wing-outing-clarkequay/featured_hu_db3c6fe45c4e7513.webp 760w,
+/event/26-01-23-wing-outing-clarkequay/featured_hu_9ec7459c7bf33821.webp 1200w"
+src="https://wing.comp.nus.edu.sg/event/26-01-23-wing-outing-clarkequay/featured_hu_52ecea76f2718c05.webp"
+width="760"
+height="570"
+loading="lazy" data-zoomable /&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;/figure&gt;
+&lt;figure &gt;
+&lt;div class="d-flex justify-content-center"&gt;
+&lt;div class="w-100" &gt;&lt;img alt="WING members enjoying the Clarke Quay river view" srcset="
+/event/26-01-23-wing-outing-clarkequay/wing-outing-1_hu_5d06671b8367fb04.webp 400w,
+/event/26-01-23-wing-outing-clarkequay/wing-outing-1_hu_c0efb97fb0ad967.webp 760w,
+/event/26-01-23-wing-outing-clarkequay/wing-outing-1_hu_ab5ca29295ca3e84.webp 1200w"
+src="https://wing.comp.nus.edu.sg/event/26-01-23-wing-outing-clarkequay/wing-outing-1_hu_5d06671b8367fb04.webp"
+width="760"
+height="570"
+loading="lazy" data-zoomable /&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;/figure&gt;
+&lt;figure &gt;
+&lt;div class="d-flex justify-content-center"&gt;
+&lt;div class="w-100" &gt;&lt;img alt="WING members sharing pizza during the outing" srcset="
+/event/26-01-23-wing-outing-clarkequay/wing-outing-2_hu_cd53802ae348223d.webp 400w,
+/event/26-01-23-wing-outing-clarkequay/wing-outing-2_hu_b843dbed386287a.webp 760w,
+/event/26-01-23-wing-outing-clarkequay/wing-outing-2_hu_3207c63c5913bc5b.webp 1200w"
+src="https://wing.comp.nus.edu.sg/event/26-01-23-wing-outing-clarkequay/wing-outing-2_hu_cd53802ae348223d.webp"
+width="570"
+height="760"
+loading="lazy" data-zoomable /&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;/figure&gt;</description></item><item><title>ChatCRS: Incorporating External Knowledge and Goal Guidance for LLM-based Conversational Recommender Systems</title><link>https://wing.comp.nus.edu.sg/project/chatcrs/</link><pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate><guid>https://wing.comp.nus.edu.sg/project/chatcrs/</guid><description>&lt;p&gt;This project is inspired by the idea of applying LLMs for zero-shot conversational recommendation. Advanced LLMs (e.g., ChatGPT) are limited in domain-specific CRS tasks for 1. generating grounded responses with recommendation- oriented knowledge, or 2. proactively leading the conversations through different dialogue goals. In this work, we first analyze those limitations through a comprehensive evaluation, showing the necessity of external knowledge and goal guidance which contribute sig- nificantly to the recommendation accuracy and language quality. In light of this finding, we propose a novel ChatCRS framework to decompose the complex CRS task into several sub-tasks through the implementation of 1. a knowledge retrieval agent using a tool-augmented approach to reason over external knowledge bases and 2. a goal-planning agent for dialogue goal prediction. Incorporating those external inputs, LLMs proactively plan interactions and generate outputs with rich information. Experiments on two multi-goal CRS datasets reveal that ChatCRS sets new state-of-the-art benchmarks, improving language quality of informativeness by 17% and proactivity by 27%, with tenfold recommendation accuracy enhancement&lt;/p&gt;</description></item><item><title>Dr. Hengchang Hu defends his Ph.D. Thesis!</title><link>https://wing.comp.nus.edu.sg/post/24-08-27-hengchang-defense/</link><pubDate>Tue, 27 Aug 2024 00:00:00 +0000</pubDate><guid>https://wing.comp.nus.edu.sg/post/24-08-27-hengchang-defense/</guid><description>&lt;p&gt;We are delighted to announce that Dr. Hengchang Hu has successfully defended his PhD thesis titled, &lt;em&gt;&amp;ldquo;Going Beyond ID-Based Recommender Systems by Exploiting External Knowledge,&amp;rdquo;&lt;/em&gt; under the supervision of A/P Min-Yen Kan.&lt;/p&gt;
+&lt;p&gt;Congratulations to Dr. Hengchang Hu! His thesis explores innovative approaches to recommender systems by leveraging external knowledge beyond traditional ID-based methods. We look forward to seeing his continued contributions in the field as he embarks on his next chapter with SAP Singapore in Recommender Systems.&lt;/p&gt;
+&lt;p&gt;Learn more about Dr. Hengchang Hu &lt;a href="https://holdenhu.github.io/" target="_blank" rel="noopener"&gt;Homepage&lt;/a&gt; on his work.&lt;/p&gt;</description></item><item><title>Adaptive Multi-Modalities Fusion in Sequential Recommendation Systems</title><link>https://wing.comp.nus.edu.sg/publication/hu-etal-2023-mmsr/</link><pubDate>Sat, 21 Oct 2023 00:00:00 +0000</pubDate><guid>https://wing.comp.nus.edu.sg/publication/hu-etal-2023-mmsr/</guid><description/></item><item><title>CS6101 2310 - Large Language Models</title><link>https://wing.comp.nus.edu.sg/event/cs6101-llm/</link><pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate><guid>https://wing.comp.nus.edu.sg/event/cs6101-llm/</guid><description/></item><item><title>CS6101 2020 - Conversational Recommendation Systems</title><link>https://wing.comp.nus.edu.sg/event/cs6101-crs/</link><pubDate>Wed, 06 Jan 2021 00:00:00 +0000</pubDate><guid>https://wing.comp.nus.edu.sg/event/cs6101-crs/</guid><description/></item></channel></rss>

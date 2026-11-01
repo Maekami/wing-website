@@ -33,13 +33,13 @@ education:
   courses:
     - course: Ph.D. in Information Technology
       institution: Tampere University of Technology, Finland
-      date: '2002'
+      date: '2002-01-01'
     - course: M.Sc. in Telecommunications
       institution: Braunschweig University of Technology, Germany
-      date: '1993'
+      date: '1993-01-01'
     - course: B.Sc. in Telecommunications
       institution: South China University of Technology, China
-      date: '1983'
+      date: '1983-01-01'
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons

@@ -33,10 +33,10 @@ education:
   courses:
     - course: PhD in Computer Science
       institution: National University of Singapore
-      date: '2022'
+      date: '2022-01-01'
     - course: Bachelor in Communication Engineering
       institution: Beijing University of Posts and Telecommunications
-      date: '2015'
+      date: '2015-01-01'
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons

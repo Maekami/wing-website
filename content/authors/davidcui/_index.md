@@ -7,7 +7,7 @@ first_name: David Anqi
 last_name: Cui
 
 # Date for sorting
-date: '2012-00'
+date: '2012-00-01'
 
 # Is this the primary user of the site?
 superuser: false
